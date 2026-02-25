@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Romantic Now",
+  "base_artist": "赤城みりあ (CV: 黒沢ともよ)",
+  "createdAt": "2026-02-25T10:19:22.103419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Romantic Now",
+      "artist": "赤城みりあ (CV黒沢ともよ)",
+      "has_synced": true,
+      "path": "select/01_Romantic_Now_赤城みりあ_(CV黒沢ともよ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Romantic Now",
+      "artist": "黒沢ともよ",
+      "has_synced": true,
+      "path": "select/02_Romantic_Now_黒沢ともよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Romantic Now",
+      "artist": "赤城みりあ(CV:黒沢ともよ)",
+      "has_synced": true,
+      "path": "select/03_Romantic_Now_赤城みりあ(CV_黒沢ともよ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Romantic Now [ORT]",
+      "artist": "赤城みりあ(CV:黒沢ともよ)",
+      "has_synced": true,
+      "path": "select/04_Romantic_Now_[ORT]_赤城みりあ(CV_黒沢ともよ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Romantic Now",
+      "artist": "赤城みりあ",
+      "has_synced": true,
+      "path": "select/05_Romantic_Now_赤城みりあ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Romantic Now",
+      "artist": "赤城みりあ(CV.黒沢ともよ)",
+      "has_synced": true,
+      "path": "select/06_Romantic_Now_赤城みりあ(CV.黒沢ともよ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Romantic Now",
+      "artist": "赤城みりあ (黒沢ともよ)",
+      "has_synced": false,
+      "path": "select/pl_01_Romantic_Now_赤城みりあ_(黒沢ともよ).txt"
+    }
+  ]
+}
